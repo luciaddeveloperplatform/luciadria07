@@ -9,7 +9,7 @@
     "build": "node --max-old-space-size=8192 ./node_modules/webpack/bin/webpack.js --mode production",
     "serve": "serve ./dist"
   },
-  "keywords": [],
+  "keywords": ["wfs","wfsfeaturestore","urlstore"],
   "author": "",
   "license": "MIT",
   "dependencies": {
